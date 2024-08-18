@@ -1,0 +1,21 @@
+.calc-btn {
+  width: 150px;
+  height: 35px;
+  margin-top: 30px;
+  outline: none;
+  cursor: pointer;
+  border: 1px solid grey;
+  border-radius: 8px;
+  color: white;
+  background-color: black;
+  transition: 0.3s ease;
+}
+
+.calc-btn:hover {
+  border: 1px solid red;
+}
+
+.result-container {
+  margin-bottom: 30px;
+}
+

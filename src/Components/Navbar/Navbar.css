@@ -1,0 +1,36 @@
+.navbar {
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 3%;
+  padding-right: 8%;
+  padding-top: 1%;
+  padding-bottom: 0.5%;
+
+  align-items: center;
+}
+.navbar ul {
+  display: flex;
+  flex-direction: row;
+  gap: 5%;
+  list-style: none;
+}
+
+.nav-links {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  transition: 0.5s ease;
+}
+
+.nav-links:hover {
+  color: red;
+}
+.logo-link {
+  text-decoration: none;
+  color: white;
+}
+.logo-link span {
+  color: red;
+}

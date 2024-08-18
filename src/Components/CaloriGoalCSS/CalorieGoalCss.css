@@ -1,0 +1,78 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.calorie-input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 50px;
+}
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.input-container label {
+  flex: 1;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.input-container input,
+.input-container select {
+  flex: 2;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: red;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+}
+
+input {
+  outline: none;
+}
+
+.calorieGoal-button {
+  width: 150px;
+  align-self: center;
+  height: 35px;
+  border: 1px solid grey;
+  outline: none;
+  color: white;
+  background-color: black;
+  border-radius: 8px;
+  transition: 0.3s ease;
+  cursor: pointer;
+}
+.calorieGoal-button:hover {
+  border: 1px solid red;
+}
+
+.calorie-goal {
+  margin-top: 80px;
+}
