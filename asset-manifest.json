@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fitness-react-app/static/css/main.04dd4f4d.css",
+    "main.js": "/fitness-react-app/static/js/main.f23ae444.js",
+    "static/js/453.3f19a7a6.chunk.js": "/fitness-react-app/static/js/453.3f19a7a6.chunk.js",
+    "index.html": "/fitness-react-app/index.html",
+    "main.04dd4f4d.css.map": "/fitness-react-app/static/css/main.04dd4f4d.css.map",
+    "main.f23ae444.js.map": "/fitness-react-app/static/js/main.f23ae444.js.map",
+    "453.3f19a7a6.chunk.js.map": "/fitness-react-app/static/js/453.3f19a7a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04dd4f4d.css",
+    "static/js/main.f23ae444.js"
+  ]
+}
